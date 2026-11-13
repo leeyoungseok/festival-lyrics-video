@@ -1,13 +1,5 @@
 # 노래·영상·포스터 등 결과물과 학생 자료는 올리지 않습니다
-*.mp3
 *.wav
-*.m4a
-*.mp4
-*.mov
-*.pdf
-*.times.json
-posters/
-photos/
 media/
 *.ttf
 *.otf
