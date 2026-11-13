@@ -1,0 +1,4 @@
+numpy
+pillow
+pymupdf          # pdf_posters.py (PDF → jpg)
+stable-ts        # lyrics_video.py 가사 자동 정렬 (Whisper). --times 로 타이밍 파일을 주면 없어도 됨
