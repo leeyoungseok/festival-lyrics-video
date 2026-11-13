@@ -1,8 +1,17 @@
 # festival-lyrics-video
 
-
 노래(mp3)와 가사(txt)로 **가사가 아래에서 위로 흐르는 영상**을 만들고, 사진·영상·팀 포스터를 함께 넣어
 행사 영상(예: 2026 충남대학교 SW·AI 창의축전)을 만드는 도구입니다.
+
+## 결과 영상
+
+2026 충남대학교 SW·AI 창의축전 영상 (가사 · 사진 · 팀 포스터 · 시작 인사말)
+
+[![2026 충남대학교 SW·AI 창의축전 영상](https://img.youtube.com/vi/4t8PDYUJnHI/hqdefault.jpg)](https://youtu.be/4t8PDYUJnHI)
+
+▶ https://youtu.be/4t8PDYUJnHI
+
+## 구성
 
 | 파일 | 하는 일 |
 |---|---|
